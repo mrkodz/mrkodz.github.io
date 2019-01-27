@@ -1,1 +1,1 @@
-<a href="plugin.video.kodzi-1.0.1.zip">plugin.video.kodzi-1.0.1.zip</a>
+<a href="plugin.video.kodzi-1.0.2.zip">plugin.video.kodzi-1.0.2.zip</a>
