@@ -2,12 +2,11 @@ Kodzi - An add-on created to help install Kodi Repositories and Add-ons. What ma
 
 FEATURES:
 
-    Personal lists of Repositories & Add-ons
-    Install plugins and/or scripts from most websites (obviously provided the conditions explained above are met)
-    No need to enter any https:... just enter the website like you would in a browser
-    gc (Github clone) support, explained abit below
-    gt support, will be removed, but it essentially makes it easier to find zips on Github without entering the full url
-    Browse GitHub, just like with a browser and install zips
+    - Personal lists of Repositories & Add-ons
+    - Install plugins and/or scripts from most websites (obviously provided the conditions explained above are met)
+    - No need to enter any https:... just enter the website like you would in a browser
+    - gc (Github clone) support, explained abit below
+    - Browse GitHub, just like with a browser and install zips
 
 
 Peronal Lists
