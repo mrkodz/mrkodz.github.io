@@ -24,9 +24,7 @@ You can clone it by typing in the Kodzi ('Enter Website or Github Url.....') the
 "gc:opensubtitles/service.subtitles.opensubtitles_by_opensubtitles "
 Without the (") . Kodzi will clone and install the subtitle add-on. (If you look carefully at the git, you can see there's a zip you can download, so if you enter the whole url, Kodzi will also find the zip)
 
-gt: (Github tree) allows you to find and install all the zips in the specific directory you are.
-Example: https://github.com/nixgates/nixgates/tree/master/packages/plugin.video.seren  (Notice the 'tree' in URL)
-The Kodzi Github Url for that is: "gt:nixgates/nixgates/packages/plugin.video.seren" (without the ["])
+gt: Deprecated
 
 
 You can install it by going into your :
