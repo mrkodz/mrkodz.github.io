@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-  <addon id="plugin.video.kodzi" version="2.0.1" name="KodzI" provider-name="Mr. Kodz">
+  <addon id="plugin.video.kodzi" version="2.0.2" name="KodzI" provider-name="Mr. Kodz">
     <requires>
       <import addon="xbmc.python" version="2.14.0"/>
       <import addon="script.module.requests" version="2.12.4"/>
