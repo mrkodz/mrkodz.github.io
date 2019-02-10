@@ -10,6 +10,7 @@ FEATURES:
 
 
 Peronal Lists
+
 The version you need for it to work is it plugin.video.kodzi-1.0.2 and higher
 To create your own personal lists, look at the following example:
 https://mrkodz.github.io/repo/Example.txt
@@ -17,6 +18,7 @@ That's  the structure required. So you can create any text file and follow that 
 Now go into KodzI and select 'Enter Lists Url', when prompted enter the website above (https://mrkodz.github.io/repo/Example.txt). Now you should see your lists.
 
 gc and gt Support:
+
 Basically gc: (GithubClone) allows you to clone a Github directory (You must see the Green clone button on Github to use this). This is very complicated as you shouldn't need to clone any git, but it's there for the people that need it. I think it's better explaining with example.
 Example: Take opensubtitles ; https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles
 You can clone it by typing in the Kodzi ('Enter Website or Github Url.....') the following
@@ -35,11 +37,9 @@ You can install it by going into your :
 
     https://mrkodz.github.io
 
-
     Press OK and select the field below 'Enter a name for this media source' and type:
 
     .mrkodz
-
 
     Press OK to save the name, then OK again to add the file source
     Go back to the Kodi Main screen and select Add-ons from left.
