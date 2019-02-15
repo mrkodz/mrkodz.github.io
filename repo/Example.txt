@@ -1,4 +1,4 @@
 kodzi-title = "Example"
 
-kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558", img = "https://imgur.com/a/tFkQH"
+kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558", img = "https://i.imgur.com/OzuRvUkl.jpg"
 kodzi-name = "Opensubtitles", url = "https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles"
