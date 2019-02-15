@@ -1,6 +1,6 @@
 kodzi-title = "Example"
 
-# The format is Kodzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
+# The format is odzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
 
 
 kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558", img = "https://i.imgur.com/OzuRvUkl.jpg"
