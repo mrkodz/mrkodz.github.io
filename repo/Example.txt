@@ -1,5 +1,4 @@
 kodzi-title = "Example"
 
-kodzi-name = "Seren", url = "nixgates.github.io"
-kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558"
-kodzi-name = "Opensubtitles", url:"https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles"
+kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558", img = "https://imgur.com/a/tFkQH"
+kodzi-name = "Opensubtitles", url = "https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles"
